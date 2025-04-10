@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/pierceedwards/azure-network-protocols)
 
 - <b>Packet Tracer</b>
-  -[Basic Router Configuration](https://github.com/
+  - [Basic Router Configuration in Packet Tracer](https://github.com/pierceedwards/router-config)
 
 
 <h2>Connect with me:</h2>
