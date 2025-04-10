@@ -10,6 +10,10 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/pierceedwards/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/pierceedwards/azure-network-protocols)
 
+- <b>Packet Tracer</b>
+  -[Basic Router Configuration](https://github.com/
+
+
 <h2>Connect with me:</h2>
 
 
